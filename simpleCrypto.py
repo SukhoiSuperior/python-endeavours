@@ -1,4 +1,4 @@
-#SukhoiSuperior
+#Code by SukhoiSuperior
 import os
 from cryptography.fernet import Fernet
 import string
