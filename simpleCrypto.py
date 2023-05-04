@@ -75,5 +75,5 @@ while True:                                     #forever loop for main code
         combine("long")
         decText = f.decrypt(longE)
         print(str(decText, encoding))
-    print("")                                   #space between last line and new line
+    print("")                                   #space betweenSw last line and new line
 
